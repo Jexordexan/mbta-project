@@ -27,4 +27,8 @@ npm run e2e
 npm test
 ```
 
+### Make a settings.js
+
+Go to `src/api/` and create a copy of `sample-settings.js` called `settings.js` then replace the API key with a dedicated value.
+
 For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
